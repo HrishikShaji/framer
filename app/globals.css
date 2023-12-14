@@ -5,9 +5,10 @@
 
 @font-face {
 	font-family:"aventa";
-	src:url(EllenLuff-AventaLight.otf)
+	src:url(Aventa-Bold.ttf);
 }
 
 h1{
 	font-family:"aventa"
 }
+
